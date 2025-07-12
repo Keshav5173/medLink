@@ -26,6 +26,16 @@ The system is subscription-based for both hospitals and patients, enabling scala
 
 ---
 
+# 🩺 Medical Report Summarizer
+
+This project is a FastAPI-based healthcare assistant that allows users to upload medical report **images** (JPG/PNG), performs **OCR** using Tesseract, and uses **Groq LLaMA 3** to generate:
+
+- ✅ Layman-friendly medical summaries  
+- ✅ Health status interpretation (Normal, Minor Issue, Critical)  
+- ✅ Basic health recommendations  
+
+---
+
 ## 🌟 Project Vision
 
 To revolutionize traditional healthcare systems by integrating smart technologies and AI to deliver seamless, efficient, and personalized healthcare services for every patient, doctor, and hospital.
